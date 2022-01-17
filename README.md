@@ -1,6 +1,6 @@
 # Basic-Banking-System
 
-First Project built for MLH Hackaton - Winter Hacklympics 
+
 
 # AIM
 Create a simple dynamic website which has the following specs.</br>
